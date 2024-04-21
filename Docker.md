@@ -1,0 +1,7 @@
+# Docker
+## Postgress
+- docker run -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
+- docker ps
+- docker exec -it dc7f133ab94c /bin/bash
+- \dt;
+- SELECT * FROM "User";
