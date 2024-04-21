@@ -5,3 +5,8 @@
 - docker exec -it dc7f133ab94c /bin/bash
 - \dt;
 - SELECT * FROM "User";
+
+## Prisma
+- npx prisma studio
+- npx prisma migrate dev
+- npx prisma generate
