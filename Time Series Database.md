@@ -1,0 +1,1 @@
+- Good to use https://www.timescale.com/ for time series database
